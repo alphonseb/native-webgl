@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACI;;;AAGJ;EACI;EACA;EACA;EACA;EACA","file":"shaders.e31bb0bc.css","sourceRoot":"..","sourcesContent":["body {\n    margin: 0;\n}\n\nh1{\n    position: fixed;\n    z-index: 10;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n}"]}
